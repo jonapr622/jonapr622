@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jonathan</h1>
 <h3 align="center">A passionate frontend student from Mexico</h3>
 
-- 🔭 I’m currently working on **DEV.F**
-
 - 🌱 I’m currently learning **Frontend**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jonapr622/MiPaginaWebJ](https://github.com/jonapr622/MiPaginaWebJ)
